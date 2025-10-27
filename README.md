@@ -7,7 +7,7 @@ It includes comprehensive **data cleaning**, **trend analysis**, and an **intera
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 | File Name | Description |
 |------------|-------------|
@@ -46,7 +46,7 @@ Each visualization includes slicers for **Year**, **Country**, and **Manufacture
 Below is a preview of the interactive Excel dashboard created for this project:
 
 <p align="center">
-  <img src="dashboard.png" alt="Excel Dashboard Preview" width="800"/>
+  <img src="dashboard.jpg" alt="Excel Dashboard Preview" width="800"/>
 </p>
 
 > 💡 *The dashboard displays crash trends, top affected countries, aircraft manufacturers, and fatalities over time.*
